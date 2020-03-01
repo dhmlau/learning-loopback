@@ -1,5 +1,7 @@
 # learning-loopback
 
+[![Twitter](https://img.shields.io/twitter/follow/mobilediana.svg?style=social&label=Follow%20%40MobileDiana)](https://twitter.com/mobilediana)
+
 This repo is to capture my learning notes about [LoopBack4](https://loopback.io).
 
 Note: Information in this repo is still working in progress.
